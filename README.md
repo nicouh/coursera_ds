@@ -1,2 +1,2 @@
 # coursera_ds
-Stuff for my Coursera IBM Data Science class
+Stuff for my Coursera IBM Data Science class.
